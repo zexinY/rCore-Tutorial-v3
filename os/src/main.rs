@@ -28,6 +28,7 @@ mod console;
 pub mod batch;
 mod lang_items;
 mod logging;
+pub mod memory;
 pub mod register;
 mod sbi;
 mod sync;
